@@ -1,6 +1,6 @@
 {
     "name": "nicoaudy/setting",
-    "description": "",
+    "description": "Laravel module for setting, for personal use",
     "authors": [
         {
             "name": "NicoAudy",
