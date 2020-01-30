@@ -1,6 +1,7 @@
 {
     "name": "nicoaudy/setting",
     "description": "Laravel module for setting, for personal use",
+    "license": "MIT",
     "authors": [
         {
             "name": "NicoAudy",
