@@ -1,0 +1,23 @@
+{
+    "name": "nicoaudy/setting",
+    "description": "",
+    "authors": [
+        {
+            "name": "NicoAudy",
+            "email": "nicoaudy1994@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Setting\\Providers\\SettingServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Setting\\": ""
+        }
+    }
+}
